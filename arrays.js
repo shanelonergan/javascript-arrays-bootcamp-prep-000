@@ -64,4 +64,4 @@ function removeElementFromEndOfArray(array) {
   return lessCandy
 }
 
-removeElementFromBeginningOfArray(chocolateBars)
+removeElementFromEndOfArray(chocolateBars)
